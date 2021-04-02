@@ -1,0 +1,12 @@
+body {
+	font-family: Arial;
+	text-align: center;
+}
+
+
+#footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
